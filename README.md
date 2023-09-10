@@ -1,3 +1,18 @@
+## 📚 Projects
+
+- [Eclipse](https://github.com/Reisonantia/N8N-Workflow_Templates) `Founder` `Leading Maintainer` — Automation focused project primarily intended for usage on Guilded
+
+## 🌎 Social Media
+
+- **Guilded:** [Reisonantia](https://www.guilded.gg/u/Reisonantia)
+- **Steam:** [Reisonantia](https://steamcommunity.com/id/Reisonantia/)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reisonantia&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reisonantia&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reisonantia&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reisonantia&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reisonantia&theme=github_dark)
+
 # Lost in Thoughts All Alone
 *You are an ocean of waves  
 Weaving a dream  
@@ -67,3 +82,5 @@ Flowing like time
 To the path, yours to climb*
 
 *You are an ocean of waves*
+
+![](https://i.imgur.com/b6Xj9oa.png)
