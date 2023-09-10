@@ -1,6 +1,6 @@
 ## 📚 Projects
 
-- [Eclipse](https://github.com/Reisonantia/N8N-Workflow_Templates) `Founder` `Leading Maintainer` — Automation focused project primarily intended for usage on Guilded
+- [Eclipse](https://github.com/Reisonantia/N8N-Workflow_Templates) `Founder` `Leading Maintainer` — Automation focused project primarily intended for usage on Guilded - This is part of the "Eclipse.NET" organization, of which I am also a founder.
 
 ## 🌎 Social Media
 
