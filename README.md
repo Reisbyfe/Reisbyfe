@@ -1,11 +1,15 @@
+![Header](https://i.imgur.com/lMv4Nog.jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=The+Ocean's+Gray+Waves)](https://git.io/typing-svg)
 ## 📚 Projects
 
-- [Eclipse](https://github.com/Reisonantia/N8N-Workflow_Templates) `Founder` `Leading Maintainer` — Automation focused project primarily intended for usage on Guilded - This is part of the "Eclipse.NET" organization, of which I am also a founder.
+- [Eclipse](https://github.com/Reisonantia/Eclipse) `Founder` `Leading Maintainer` — Automation focused project primarily intended for usage on Guilded - This is part of the "Eclipse.NET" organization, of which I am also a founder.
+- [Eclipsis](https://www.boincstats.com/stats/-1/team/detail/6b7b655dd22faa3f10677c512493a8a0) `Founder` `Lead Contributor` - Subproject adjunct to the main Eclipse project. This is a distributed computing focused project.
 
 ## 🌎 Social Media
 
-- **Guilded:** [Reisonantia](https://www.guilded.gg/u/Reisonantia)
-- **Steam:** [Reisonantia](https://steamcommunity.com/id/Reisonantia/)
+- **Beacons.AI:** [Reisonantia](https://beacons.ai/reisonantia)
+
+![](https://komarev.com/ghpvc/?username=Reisonantia&color=lightgrey)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reisonantia&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reisonantia&theme=github_dark)
