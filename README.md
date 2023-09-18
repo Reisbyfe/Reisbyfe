@@ -3,7 +3,8 @@
 ## 📚 Projects
 
 - [Eclipse](https://github.com/Reisonantia/Eclipse) `Founder` `Leading Maintainer` — Automation focused project primarily intended for usage on Guilded - This is part of the "Eclipse.NET" organization, of which I am also a founder.
-- [Luna](https://www.boincstats.com/stats/-1/team/detail/6b7b655dd22faa3f10677c512493a8a0) `Founder` `Lead Contributor` - Subproject adjunct to the main Eclipse project. This is a distributed computing focused project.
+- [Luna](https://github.com/Reisonantia/Luna) `Founder` `Lead Contributor` - Subproject adjunct to the main Eclipse project. This is a distributed computing focused project.
+- [Sol](https://github.com/Reisonantia/Sol) `Founder` `Lead Contributor` - Subproject adjunct to the main Eclipse project. This is a repository that contains coursework from my university classes for future use or reference.
 
 ## 🌎 Social Media
 
