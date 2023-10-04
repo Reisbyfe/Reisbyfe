@@ -7,10 +7,6 @@
 - [Sol](https://github.com/Reisonantia/Sol) `Founder` `Lead Contributor` - Subproject adjunct to the main Eclipse project. This is a repository that contains coursework from my university classes for future use or reference.
 - [Societas](https://beacons.ai/reisonantia) `Founder` `Lead Contributor` - Subproject adjunct to the main Eclipse project. Social network project across different platforms, primarily Discord and Guilded.
 
-## 🌎 Social Media
-
-- **Beacons.AI:** [Reisonantia](https://beacons.ai/reisonantia)
-
 ![](https://komarev.com/ghpvc/?username=Reisonantia&color=lightgrey)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reisonantia&theme=github_dark)
