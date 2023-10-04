@@ -9,6 +9,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Reisonantia&color=lightgrey)
 
+## 📚 Eclipse Project Tracker
+
+- [Official Eclipse Project Kanban Board](https://sharing.clickup.com/9011062101/b/h/4-90110180323-2/8fcd0a33a918571)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reisonantia&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reisonantia&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reisonantia&theme=github_dark)
