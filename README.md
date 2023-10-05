@@ -11,7 +11,7 @@
 
 ## 📚 Eclipse Project Tracker
 
-- [Official Eclipse Project Kanban Board](https://sharing.clickup.com/9011062101/b/h/4-90110180323-2/8fcd0a33a918571)
+- [Official Eclipse Project Kanban Board](https://tree.taiga.io/project/reisonantia-eclipse)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reisonantia&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reisonantia&theme=github_dark)
