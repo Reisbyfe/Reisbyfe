@@ -20,61 +20,62 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reisonantia&theme=github_dark)
 
 # Fiery Bonds
-*Promises were made to you on the fields of your awakening
+*Promises were made to you on the fields of your awakening  
 Unaware that this would be the start of your story*
 
-*Images come back to you and flicker in your memory
-You pray for strength to carry on
+*Images come back to you and flicker in your memory  
+You pray for strength to carry on  
 I heard you calling out to me*
 
-*So even though it may be easier to run from the fighting
+*So even though it may be easier to run from the fighting  
 What you sought all along was the strength to free us all from this dark night of sorrow*
 
-*You can seize your dreams
-Distant though they seem
-Like the wind that sweeps across the plains
+*You can seize your dreams  
+Distant though they seem  
+Like the wind that sweeps across the plains  
 You can rise up and begin again*
 
-*May your wish come true
-We can see this through
-Just show me your brightest smile
+*May your wish come true  
+We can see this through  
+Just show me your brightest smile  
 To restore the light of morning sky*
 
-*Promises you made to me as you gazed into my eyes of blue
+*Promises you made to me as you gazed into my eyes of blue  
 Hoping that our paths would cross once again*
 
-*On that day when all was lost, I remember what you said to me
-That the past, our wounds, and all our pain
+*On that day when all was lost, I remember what you said to me  
+That the past, our wounds, and all our pain  
 Would be healed by the break of dawn*
 
-*So long ago, you always stood beside and put your faith in me
+*So long ago, you always stood beside and put your faith in me  
 I was scared and alone until we forged a bond together that would last forever*
 
-*Gather up your tears
-Put aside your fears
-Bare your heart, your fate's desires
+*Gather up your tears  
+Put aside your fears  
+Bare your heart, your fate's desires  
 Reignite the dimming fires*
 
-*If you pray with passion
-Find your way to action
-You can make your dream reality
+*If you pray with passion  
+Find your way to action  
+You can make your dream reality  
 Be a shining star for all to see*
 
-*So many times I was defeated and I'd given up hope
-Teach me to care when all I love is lost and gone up in smoke
+*So many times I was defeated and I'd given up hope  
+Teach me to care when all I love is lost and gone up in smoke  
 And I can't hold back these burning tears*
 
-*Who will be the light
+*Who will be the light  
 In this endless night?*
 
-*Bonds of fire connect us
-Love provides, protects us
-Feel the warmth of precious memories
+*Bonds of fire connect us  
+Love provides, protects us  
+Feel the warmth of precious memories  
 The promises you've kept to me*
 
-*Bonds of hope unite us
-Shining on to guide us
-The story that you left behind
+*Bonds of hope unite us  
+Shining on to guide us  
+The story that you left behind  
 Will be told until the end of time*
+
 
 ![](https://i.imgur.com/b6Xj9oa.png)
