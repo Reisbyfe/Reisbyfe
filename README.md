@@ -9,9 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Reisonantia&color=lightgrey)
 
-## 📚 Eclipse Project Tracker
-
-- [Official Eclipse Project Kanban Board](https://tree.taiga.io/project/reisonantia-eclipse)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reisonantia&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlterEnigma&theme=github_dark)
