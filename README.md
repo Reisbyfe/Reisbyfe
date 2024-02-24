@@ -1,5 +1,8 @@
 ![Header](https://i.imgur.com/lMv4Nog.jpg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=The+Ocean's+Gray+Waves)](https://git.io/typing-svg)
+
+![](https://i.imgur.com/a2zPVa7.png)
+
 ## 📚 Projects
 
 - [Eclipse](https://github.com/Reisonantia/Eclipse) `Founder` `Leading Maintainer` — Automation focused project primarily intended for usage on Guilded.
