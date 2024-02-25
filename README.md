@@ -3,7 +3,7 @@
 
 <p>
     <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Alt).gif" hspace="5" >
-    <img src="https://i.imgur.com/a2zPVa7.png" hspace="5" >
+    <img src="https://i.imgur.com/a2zPVa7.png" hspace="0" >
     <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Main).gif" hspace="5" >
 </p>
 
