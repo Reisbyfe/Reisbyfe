@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=The+Ocean's+Gray+Waves)](https://git.io/typing-svg)
 
 <p>
-    <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Alt).gif" hspace="0" width="290" height="628" >
-    <img src="https://i.imgur.com/a2zPVa7.png" hspace="0" >
-    <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Main).gif" hspace="0" width="290" height="628" >
+    <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Alt).gif" hspace="0" width="30%" >
+    <img src="https://i.imgur.com/a2zPVa7.png" hspace="0" width="30%" >
+    <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Main).gif" hspace="0" width="30%" >
 </p>
 
 ## 📚 Projects
