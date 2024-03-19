@@ -22,63 +22,115 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reisonantia&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reisonantia&theme=github_dark)
 
-# Fiery Bonds
-*Promises were made to you on the fields of your awakening  
-Unaware that this would be the start of your story*
+# Rey o Cobarde
+*No estoy solo, pero me siento solo  
+Soy cero punto cero - en armonía con mis sentimientos*
 
-*Images come back to you and flicker in your memory  
-You pray for strength to carry on  
-I heard you calling out to me*
+*Anhelo el éxito, pero temo al fracaso  
+Bailo en la fiesta, pero en el fondo preferiría irme a casa*
 
-*So even though it may be easier to run from the fighting  
-What you sought all along was the strength to free us all from this dark night of sorrow*
+*Éxtasis, luego profundamente entristecido  
+Quisiera tener sol, pero la luna basta*
 
-*You can seize your dreams  
-Distant though they seem  
-Like the wind that sweeps across the plains  
-You can rise up and begin again*
+*Solo porque tengo excelentes versos  
+no significa que mi corazón no se sienta vacío*
 
-*May your wish come true  
-We can see this through  
-Just show me your brightest smile  
-To restore the light of morning sky*
+*Y sinceramente, no sé de dónde viene  
+Incluso a plena luz del día, todo me parece borroso*
 
-*Promises you made to me as you gazed into my eyes of blue  
-Hoping that our paths would cross once again*
+*Como si alguien hubiera sacado lo más profundo de mí  
+He estado nadando en este mar negro profundo durante demasiado tiempo*
 
-*On that day when all was lost, I remember what you said to me  
-That the past, our wounds, and all our pain  
-Would be healed by the break of dawn*
+*Estoy mentalmente inestable, me siento como un loco  
+No estoy luchando contra el mundo, sino contra mí mismo*
 
-*So long ago, you always stood beside and put your faith in me  
-I was scared and alone until we forged a bond together that would last forever*
+*Me embarga esta sensación fría y vacía después de una victoria  
+No importa lo que logre, nunca será suficiente*
 
-*Gather up your tears  
-Put aside your fears  
-Bare your heart, your fate's desires  
-Reignite the dimming fires*
+*Pero sigo luchando, mi corazón es mi guía  
+El que duda de mí mismo - mi compañero constante*
 
-*If you pray with passion  
-Find your way to action  
-You can make your dream reality  
-Be a shining star for all to see*
+*Pero sigo viviendo - rendirse no es una opción  
+Lucho contra mis propios demonios y asciendo al trono*
 
-*So many times I was defeated and I'd given up hope  
-Teach me to care when all I love is lost and gone up in smoke  
-And I can't hold back these burning tears*
+*Corre como un hilo a lo largo de mi vida  
+Grandes acciones, pocas palabras*
 
-*Who will be the light  
-In this endless night?*
+*Porque la muerte espera a todos  
+Debo enfrentar el miedo puro*
 
-*Bonds of fire connect us  
-Love provides, protects us  
-Feel the warmth of precious memories  
-The promises you've kept to me*
+*Mi corazón late, los recuerdos son dolorosos  
+Pero lo que no me mata me hace más fuerte*
 
-*Bonds of hope unite us  
-Shining on to guide us  
-The story that you left behind  
-Will be told until the end of time*
+*Siento el poder dentro de mí, llámalo poder nuclear  
+Y la fuerza que me arrastra hacia abajo, la gravedad*
+
+*Inhala, exhala  
+Sin volver atrás, solo adelante*
+
+*Los espectadores están en la cerca del jardín  
+"¿Cuándo colapsará su castillo de naipes?"*
+
+*La presión aumenta - los pulmones preguntan cuándo llega el aire  
+Sangre, sudor y lágrimas brillan suavemente a la luz de la luna*
+
+*Ni siquiera necesito un segundo, solo una fracción  
+No creo en el bien o el mal, ¿quién es verdaderamente inocente?*
+
+*Tan enfocado - veo todo en cámara lenta  
+Los envidiosos parecen hormigas desde aquí arriba*
+
+*Descomponerlos en protones - patearlos en un alto arco  
+A través de la galaxia, de regreso a las losas de concreto de la realidad*
+
+*Después de una breve racha de suerte vienen los contratiempos  
+Porque muchos quieren verte caer como hienas*
+
+*No se atreven a soñar - te roban la alegría  
+Tienen sus vidas ante sus ojos todos los días, cómo las desperdician*
+
+*Pero no cambiaría ni por un día con estas personas  
+Se sienten patéticos, sí, incluso si lo niegan*
+
+*Ríete, tengo un sueño que significa algo para mí  
+Vamos, chico, mira mis ojos - ¿ves cómo brillan?*
+
+*Bling bling - sigo mi instinto  
+Así que llámame el líder - llevo oro dentro de mí*
+
+*No esperes más regalos, estoy a punto de cambiar el rumbo  
+Y ahora levantan sus manos por la leyenda viva*
+
+*Yo era el monaguillo taciturno - me llamaban raro 
+No pertenecía a ningún lado, un pasajero sin un pase de abordar*
+
+*En cada alma hay un rey y un cobarde  
+Tienes que decidir, ¿eres un león o un cerdo hoy?*
+
+*¿Me liberaré de las limitaciones dentro de mí hasta que sea libre?  
+o ¿escucharé a los coros que solo se quejan, dudan de mí?*
+
+*Y sí, el éxito requiere naturalmente de tiempo
+pero cuando llegue la oportunidad, juro que estaré listo*
+
+*Deja ir los traumas ahora, me burlaron de niño  
+Pero dejo ir, ya no estoy enojado con ellos, los perdono*
+
+*Solo en la batalla los hago llorar terriblemente  
+Como una katana afilada, sientes que las palabras te penetran*
+
+*Este es un mensaje para mi yo anterior  
+El futuro es el gran miedo, pero por favor no tengas temor*
+
+*Cada una de sus palabras, te pica y te agobia  
+Pero ten por seguro que su luz pronto se apagará*
+
+*Y claro, tengo miedo, el pensamiento de ello  
+el fracasar aprieta toda mi mente*
+
+*Así que no espero mucho - porque crezco a partir de ello  
+¡Rompo este muro y comienzo la pelea!*
+
 
 <center>
     <img src="https://i.imgur.com/b6Xj9oa.png">
