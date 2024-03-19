@@ -101,7 +101,7 @@ Así que llámame el líder - llevo oro dentro de mí*
 *No esperes más regalos, estoy a punto de cambiar el rumbo  
 Y ahora levantan sus manos por la leyenda viva*
 
-*Yo era el monaguillo taciturno - me llamaban raro 
+*Yo era el monaguillo taciturno - me llamaban raro                     
 No pertenecía a ningún lado, un pasajero sin un pase de abordar*
 
 *En cada alma hay un rey y un cobarde  
@@ -110,7 +110,7 @@ Tienes que decidir, ¿eres un león o un cerdo hoy?*
 *¿Me liberaré de las limitaciones dentro de mí hasta que sea libre?  
 o ¿escucharé a los coros que solo se quejan, dudan de mí?*
 
-*Y sí, el éxito requiere naturalmente de tiempo
+*Y sí, el éxito requiere naturalmente de tiempo  
 pero cuando llegue la oportunidad, juro que estaré listo*
 
 *Deja ir los traumas ahora, me burlaron de niño  
@@ -122,7 +122,7 @@ Como una katana afilada, sientes que las palabras te penetran*
 *Este es un mensaje para mi yo anterior  
 El futuro es el gran miedo, pero por favor no tengas temor*
 
-*Cada una de sus palabras, te pica y te agobia  
+*Cada una de sus palabras, te escuece y te agobia  
 Pero ten por seguro que su luz pronto se apagará*
 
 *Y claro, tengo miedo, el pensamiento de ello  
