@@ -3,7 +3,8 @@ name: Metrics
 on:
   # Schedule updates (each day at midnight)
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # Lines below let you run workflow manually and on each commit (not implemented for now)
+  workflow_dispatch:
   
 jobs:
   github-metrics:
