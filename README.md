@@ -12,6 +12,8 @@
 
 [<img align="center" width="777" alt="🦑" src="https://count.getloli.com/get/@:Reisonantia?theme=gelbooru">](https://beacons.ai/reisonantia)
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 # Rey o Cobarde
 *No estoy solo, pero me siento solo  
 Soy cero punto cero - en armonía con mis sentimientos*
