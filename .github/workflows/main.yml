@@ -31,7 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, metadata
           base_indepth: yes
-          config_display: columns
+          config_display: large
           config_timezone: America/Mexico_City
           plugin_activity: yes
           plugin_activity_days: 14
@@ -53,7 +53,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: LuminisNobilite/Eclipse
+          plugin_languages_indepth_custom: LuminisNobilite/Eclipse, LuminisNobilite/Sol
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
