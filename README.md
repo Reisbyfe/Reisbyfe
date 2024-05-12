@@ -1,6 +1,11 @@
 ![Header](https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Distant%20Sky%20Garden%20Wallpaper.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=The+Ocean's+Gray+Waves)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hel%20(Main%20v2).gif" hspace="0" width="100%" >
+<p float="left">
+<img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Alt).gif" hspace="0" width="33%" >
+<img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Blue%20Archive%20-%20Toki%20(Main).gif" hspace="0" width="33%" >
+<img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Main).gif" hspace="0" width="33%" >
+</p>
+
 ## 📚 Projects
 
 - [Eclipse](https://github.com/Reisonantia/Eclipse) `Founder` `Leading Maintainer` — Automation focused project primarily intended for usage on Guilded.
