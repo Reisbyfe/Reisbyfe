@@ -1,4 +1,4 @@
-![Header](https://i.imgur.com/lMv4Nog.jpg)
+![Header](https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Distant%20Sky%20Garden%20Wallpaper.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=The+Ocean's+Gray+Waves)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hel%20(Main%20v2).gif" hspace="0" width="100%" >
 ## 📚 Projects
