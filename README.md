@@ -16,6 +16,3 @@
 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-[<img align="center" width="777" src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Vortex%20Logo%20v1.png">](https://beacons.ai/reisonantia)
-[<img align="center" width="1000" src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Coat_of_arms_of_Mexico_(1864%E2%80%931867).png">](https://beacons.ai/reisonantia)
