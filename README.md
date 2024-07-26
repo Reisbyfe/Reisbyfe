@@ -5,7 +5,7 @@
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Alt).gif" hspace="0" width="49%" >
-<img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Main).gif" hspace="0" width="49%" >
+<img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Main).gif" hspace="0" width="49.3%" >
 </p>
 
 ## 📚 Projects
@@ -16,7 +16,9 @@
 - [Societas](https://beacons.ai/reisonantia) `Founder` `Lead Contributor` - Subproject adjunct to the main Eclipse project. Social media network project.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
+<p align="center">
+<img src="https://count.getloli.com/get/@:Reisonantia?theme=asoul" width="500">
+</p>
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
