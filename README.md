@@ -1,5 +1,8 @@
 ![Header](https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20v3.1%20Wallpaper%20-%20Song%20of%20Arrival.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=The+Ocean's+Gray+Waves)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&height=50&lines=The+Ocean's+Gray+Waves">
+</p>
+
 <p float="left">
 <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Alt).gif" hspace="0" width="49%" >
 <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Main).gif" hspace="0" width="49%" >
