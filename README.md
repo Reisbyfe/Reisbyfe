@@ -16,3 +16,5 @@
 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+[<img align="center" width="100%" src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/80437a8d6b333d7f34339e217e891091a07ccd77/Assets/Reisonantia/Azur%20Promilia%20Promo%20Art.jpeg">](https://beacons.ai/reisonantia)
