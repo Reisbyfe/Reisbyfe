@@ -5,7 +5,7 @@
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Alt).gif" hspace="0" width="49%" >
-<img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Main).gif" hspace="0" width="49.4%" >
+<img src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Reisonantia/Aether%20Gazer%20-%20Hella%20(Main).gif" hspace="0" width="49.3%" >
 </p>
 
 ## 📚 Projects
