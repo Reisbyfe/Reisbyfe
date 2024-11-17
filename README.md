@@ -10,7 +10,7 @@
 
 ## 📚 Projects
 
-- [Eclipse](https://github.com/LuminisNobilite/Eclipse) `Founder` `Lead Developer` — Main project. Automation frameworks for Discord & Guilded.
+- [Eclipse](https://github.com/LuminisNobilite/Eclipse) `Founder` `Lead Developer` — Main project. Automation frameworks for Guilded.
 - [Luna](https://github.com/LuminisNobilite/Luna) `Founder` `Principal Systems Administrator` - Eclipse subproject. Distributed computing project.
 - [Sol](https://github.com/LuminisNobilite/Sol) `Founder` `Principal Author` - Eclipse subproject. University coursework repository.
 - [Societas](https://github.com/LuminisNobilite/Societas) `Founder` `Principal Contributor` - Eclipse subproject. Social media network project.
