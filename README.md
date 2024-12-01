@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/LightCircleLLC/Eclipse/refs/heads/main/Assets/Reisonantia/Darkstar%20-%20Hel%20Background%20v1.png)
+![Header](https://raw.githubusercontent.com/LightCircleLLC/Eclipse/refs/heads/main/Assets/Reisonantia/Gray%20Ibis%20-%20Thoth%20Background%20v1.png)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&height=50&lines=The+Ocean's+Gray+Waves">
 </p>
