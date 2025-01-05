@@ -20,6 +20,4 @@
 <img src="https://count.getloli.com/get/@:Reisonancia?theme=asoul" width="500">
 </p>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 [<img align="center" width="100%" src="https://raw.githubusercontent.com/LightCircleLLC/Eclipse/refs/heads/main/Assets/Reisonantia/Azur%20Promilia%20Promo%20Art.jpeg">](https://beacons.ai/reisonancia)
