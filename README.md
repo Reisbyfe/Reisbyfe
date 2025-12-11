@@ -20,4 +20,4 @@
 <img src="https://count.getloli.com/get/@:Reisbyfe?theme=asoul" width="500">
 </p>
 
-[<img align="center" width="100%" src="https://raw.githubusercontent.com/LightCircleLLC/Eclipse/refs/heads/main/Assets/Reisbyfe/Azur%20Promilia%20Promo%20Art.jpeg">](https://beacons.ai/reisonancia)
+[<img align="center" width="100%" src="https://raw.githubusercontent.com/LightCircleLLC/Eclipse/refs/heads/main/Assets/Reisbyfe/Yeonhwa.png">](https://www.youtube.com/@Reisbyfe)
